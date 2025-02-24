@@ -7,46 +7,10 @@ Hosting stron WWW
 
 * [Laboratorium 1](lab1.md)
   
-## Blok 2
-
-CSS: preprocesory (LESS, SCSS), frameworki (Bootstrap, Tailwind).
-
-* [Laboratorium 2](lab2.md)
-* [Laboratorium 3](lab3.md)
-* [Laboratorium 4](lab4.md)
-
-## Blok 3
-
-Architektura serwera WWW.
-Frameworki Django i FastAPI.
- 
-* [Laboratorium 5](lab5.md)
-* [Laboratorium 6](lab6.md)
-* [Laboratorium 7](lab7.md)
-
-Materiały o FastAPI:
-* https://fastapi.tiangolo.com/
-* [Wykład 7](wyk7/wyk7.md)
-
-## Blok 4
-
-Język JavaScript: podstawy, TypeScript.
-
-* [Laboratorium 8](lab8.md)
-* [Laboratorium 9](lab9.md)
-* [Laboratorium 10](lab10.md)
-
-## Blok 5
-
-Popularne biblioteki JavaScript: Vue.js, React, Angular.
-
-* [Laboratorium 11](lab11.md)
-* [Laboratorium 12](lab12.md)
-* [Laboratorium 13](lab13.md)
 
 # Zaliczenie
 
-Z każdego bloku należy oddać zadanie zaliczeniowe. Laboratoriów będzie w sumie 13, a zadań do zaliczenia 5. Każde z nich będzie miało formę projektu, który będzie trzeba oddać na zajęciach.
+Zostanie opisane na wykładzie
 
 # Wykłady
 
