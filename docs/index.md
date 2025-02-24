@@ -1,4 +1,4 @@
-# WWW 2023/24 MIMUW
+# WWW 2024/25 MIMUW
 
 ## Blok 1
 
