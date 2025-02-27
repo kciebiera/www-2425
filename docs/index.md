@@ -7,12 +7,15 @@ Hosting stron WWW
 
 * [Laboratorium 1](lab1.md)
   
+## Adres repo
 
-# Zaliczenie
+https://github.com/kciebiera/www-2425
+
+## Zaliczenie
 
 Zostanie opisane na wykładzie
 
-# Wykłady
+## Wykłady
 
 1. https://docs.google.com/presentation/d/1kbRzUdMcB5yzSHcn7LFUYpyt-xv-vYXvqSV5grSZHus/
 2. https://docs.google.com/presentation/d/1CUh2N90GUDKHER7aw4pVAyx2-uaAikERwHsUDApb_kY/
