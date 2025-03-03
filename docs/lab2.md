@@ -6,7 +6,7 @@
 # Cel
 
 - Celem zadania jest przeprzygotowanie strony internetowej w formacie HTML. Dobrze by było, gdyby strona dotyczyła tematyki związanej z tematyką wybraną na laboratorium pierwszym.
-- Ważnym fragmentem zadania jest instalacja `npm` i https://www.npmjs.com/package/html-validate
+- Ważnym fragmentem zadania jest instalacja `npm` i [https://www.npmjs.com/package/html-validate](https://www.npmjs.com/package/html-validate)
 
 # Wymagania
 
