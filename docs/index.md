@@ -9,7 +9,7 @@ Hosting stron WWW
 
 ## Blok 2
 
-HTML, node, npm, html-validate
+Podstawy HTML, node.js, npm.
 
 * [Laboratorium 2](lab2.md)
 
