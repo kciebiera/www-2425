@@ -11,33 +11,33 @@
 # Wymagania
 
 1. Struktura strony:
-   - Należy dodać do strony nagłówek, artykuł i stopkę (elementy `<header>`, `<article>` i `<footer>`).
-   - Użyć tagów `<h1>` i `<h2>` do wyróżnienia nagłówków.
+   - Należy dodać do strony nagłówek, artykuł i stopkę (elementy [`<header>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header), [`<article>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article) i [`<footer>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer)).
+   - Użyć tagów [`<h1>` i `<h2>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements) do wyróżnienia nagłówków.
 2. Tabela:
-   - Stworzyć tabelkę z danymi (mogą być wymyślone).
-   - Tabela powinna zawierać nagłówek, wiersze i kolumny z danymi.
-   - Należy nadać tabeli tytuł.
+   - Stworzyć tabelkę [`<table>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table) z danymi (mogą być wymyślone).
+   - Tabela powinna zawierać nagłówek [`<thead>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/thead), wiersze [`<tr>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tr) i kolumny wiersze [`<th>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/th) z danymi.
+   - Należy nadać tabeli tytuł [`<caption>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/caption).
 3. Lista:
-   - Stworzyć listę numerowaną cyframi rzymskimi.
+   - Stworzyć listę [`<ol>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol) numerowaną cyframi rzymskimi.
 4. Wyróżnienia:
-   - Użyć tagów do wyróżnienia tekstu (np. `<strong>`, `<em>`).
+   - Użyć tagów do wyróżnienia tekstu (np. [`<strong>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong), [`<em>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/em)).
 5. Obrazek:
-   - Dodać do strony obrazek (element `<img>`).
+   - Dodać do strony obrazek (element [`<img>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img)).
 6. Formularz:
-   - Stworzyć formularz (element `<form>`) zawierający między innnymi:
-       - Pole tekstowe (element `<input>`).
-       - Pole wyboru (element `<select>`) z optgroup.
-       - Przycisk (element `<button>`).
+   - Stworzyć formularz (element [`<form>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)) zawierający między innnymi:
+       - Pole tekstowe (element [`<input>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)).
+       - Pole wyboru (element [`<select>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select)) z [optgroup](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select#select_with_grouping_options).
+       - Przycisk (element [`<button>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button)).
 7. Rozwijany opis:
-   - Użyć tagów `<details>` i `<summary>` do stworzenia rozwijanego opisu.
+   - Użyć tagów [`<details>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details) i [`<summary>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/summary) do stworzenia rozwijanego opisu.
 8. Pasek postępu:
-    - Użyć elementu `<progress>` do stworzenia paska postępu (np. dla postępu zrobienia zadania).
+    - Użyć elementu [`<progress>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/progress) do stworzenia paska postępu (np. dla postępu zrobienia zadania).
 9. Mapa:
-    - Stworzyć sensowną mapę za pomocą elementów `<map>` i `<area>`. Mapa powinna zawierać co najmniej 3 obszary.
+    - Stworzyć sensowną mapę za pomocą elementów [`<map>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/map) i [`<area>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/area). Mapa powinna zawierać co najmniej 3 obszary (`<area>`).
 
 # Udostępnianie
 
-Stronę należy udostępnić tak, jak w zadaniu z laboratorium pierwszego.
+Stronę należy udostępnić tak, [jak w zadaniu z laboratorium pierwszego](https://kciebiera.github.io/www-2425/lab1.html#wystawianie).
 
 # Weryfikacja poprawności strony
 
