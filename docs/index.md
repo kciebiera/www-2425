@@ -9,7 +9,7 @@ Hosting stron WWW
 
 ## Blok 2
 
-CSS, preprocesor SCSS, framework Tailwind.
+HTML, node, npm, html-validate
 
 * [Laboratorium 2](lab2.md)
 
