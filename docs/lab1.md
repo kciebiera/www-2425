@@ -13,7 +13,7 @@ Precyzyjniej:
 1. Należy napisać program, który ściągnie stronę internetową poświęconą jakiemuś wybranemu przez siebie tematowi, na przykład:
 - TikTokerom ([https://www.favikon.com/blog/the-20-most-famous-tiktok-influencers-in-the-world](https://www.favikon.com/blog/the-20-most-famous-tiktok-influencers-in-the-world))
 - językom programowania ([https://www.tiobe.com/tiobe-index/](https://www.tiobe.com/tiobe-index/))
-- otwarciom szachowym ([https://www.thechesswebsite.com/chess-openings/](https://www.thechesswebsite.com/chess-openings/))
+- otwarciom szachowym ([https://chessfox.com/chess-openings-list/](https://chessfox.com/chess-openings-list/))
 ważna informacja: strona ta powinna zawierać listę elementów, które można łatwo zescrapować (np. lista języków programowania, lista otwarć szachowych, lista tiktokowych influencerów), lista ta może być w formie tabeli, listy, itp.
 2. Program ten powinien przetworzyć stronę internetową i wygenerować z niej plik w formacie markdown, który będzie zawierał listę elementów zescrapowanych z internetu wraz z jakimiś dodatkowymi informacjami (np. opis, link, obrazek, itp.)
 3. Następnie należy (przy użyciu biblioteki w rodzaju [https://github.com/MarioVilas/googlesearch](https://github.com/MarioVilas/googlesearch), [https://github.com/deedy5/duckduckgo_search](https://github.com/deedy5/duckduckgo_search)) wyszukać w internecie dodatkowe informacje na temat każdego z elementów zescrapowanych z internetu.
