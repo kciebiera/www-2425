@@ -11,8 +11,8 @@
 # Wymagania
 
 1. Struktura strony:
-   - Należy dodać do strony nagłówek, artykuł i stopkę (elementy `<header>`, `<article>` i `<footer>`).
-   - Użyć tagów `<h1>` i `<h2>` do wyróżnienia nagłówków.
+   - Należy dodać do strony nagłówek, artykuł i stopkę (elementy [`<header>`](https://www.w3schools.com/tags/tag_header.asp), [`<article>`](https://www.w3schools.com/tags/tag_article.asp) i [`<footer>`](https://www.w3schools.com/tags/tag_footer.asp)).
+   - Użyć tagów [`<h1>`](https://www.w3schools.com/tags/tag_hn.asp) i [`<h2>`](https://www.w3schools.com/tags/tag_hn.asp) do wyróżnienia nagłówków.
 2. Tabela:
    - Stworzyć tabelkę z danymi (mogą być wymyślone).
    - Tabela powinna zawierać nagłówek, wiersze i kolumny z danymi.
@@ -20,20 +20,20 @@
 3. Lista:
    - Stworzyć listę numerowaną cyframi rzymskimi.
 4. Wyróżnienia:
-   - Użyć tagów do wyróżnienia tekstu (np. `<strong>`, `<em>`).
+   - Użyć tagów do wyróżnienia tekstu (np. [`<strong>`](https://www.w3schools.com/tags/tag_strong.asp), [`<em>`](https://www.w3schools.com/tags/tag_em.asp)).
 5. Obrazek:
-   - Dodać do strony obrazek (element `<img>`).
+   - Dodać do strony obrazek (element [`<img>`](https://www.w3schools.com/tags/tag_img.asp)).
 6. Formularz:
-   - Stworzyć formularz (element `<form>`) zawierający między innnymi:
-       - Pole tekstowe (element `<input>`).
-       - Pole wyboru (element `<select>`) z optgroup.
-       - Przycisk (element `<button>`).
+   - Stworzyć formularz (element [`<form>`](https://www.w3schools.com/tags/tag_form.asp)) zawierający między innnymi:
+       - Pole tekstowe (element [`<input>`](https://www.w3schools.com/tags/tag_input.asp)).
+       - Pole wyboru (element [`<select>`](https://www.w3schools.com/tags/tag_select.asp)) z [`optgroup`](http://www.w3schools.com/TAgs/tag_optgroup.asp).
+       - Przycisk (element [`<button>`](http://www.w3schools.com/TAgs/tag_button.asp)).
 7. Rozwijany opis:
-   - Użyć tagów `<details>` i `<summary>` do stworzenia rozwijanego opisu.
+   - Użyć tagów [`<details>`](http://www.w3schools.com/TAgs/tag_details.asp) i [`<summary>`](http://www.w3schools.com/TAgs/tag_summary.asp) do stworzenia rozwijanego opisu.
 8. Pasek postępu:
-    - Użyć elementu `<progress>` do stworzenia paska postępu (np. dla postępu zrobienia zadania).
+    - Użyć elementu [`<progress>`](http://www.w3schools.com/TAgs/tag_progress.asp) do stworzenia paska postępu (np. dla postępu zrobienia zadania).
 9. Mapa:
-    - Stworzyć sensowną mapę za pomocą elementów `<map>` i `<area>`. Mapa powinna zawierać co najmniej 3 obszary.
+    - Stworzyć sensowną mapę za pomocą elementów [`<map>`](http://www.w3schools.com/TAgs/tag_map.asp) i [`<area>`](http://www.w3schools.com/TAgs/tag_area.asp). Mapa powinna zawierać co najmniej 3 obszary.
 
 # Udostępnianie
 
