@@ -41,9 +41,16 @@ Stronę należy udostępnić tak, jak w zadaniu z laboratorium pierwszego.
 
 # Weryfikacja poprawności strony
 
-Strona powinna być zwerifikowana za pomocą narzędzia `html-validate`. W tym celu należy zainstalować narzędzie za pomocą `npm`, a następnie uruchomić je w katalogu z plikiem HTML.
+Strona powinna być zwerifikowana za pomocą narzędzia `html-validate`. W tym celu należy zainstalować narzędzie za pomocą `npm` na jeden z dwóch sposobów:
 
-Jako bonus można dodać konfigurację `html-validate` do pliku `package.json` i uruchamiać walidację za pomocą `npm run validate`, albo pokazać jak użyć Vite, albo czegoś innego.
+- globalnie: `npm install -g html-validate`. Dzięki temu można weryfikować pliki .html wpisując `html-validate [plik]` lub `html-validate [folder]` (rekurencyjnie weryfikuje wszystkie pliki .html w folderze).
+- lokalnie: Tworząc projekt komendą `npm init -y`, następnie w tym samym katalogu instalując narzędzie komendą `npm install html-validate`. Teraz do weryfikacji wystarczy komenda `npx html-validate [plik/folder]`. Alternatywnie można dodać pole `scripts` do pliku `package.json`:
+   ```json
+   "scripts": {
+      "validate": "html-validate ."
+   }
+   ```
+   i wtedy weryfikacja całego projektu odbywa się komendą `npm run validate`.
 
 # Materiały pomocnicze
 
