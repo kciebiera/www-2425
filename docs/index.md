@@ -12,6 +12,7 @@ Hosting stron WWW
 CSS, preprocesor SCSS, framework Tailwind.
 
 * [Laboratorium 2](lab2.md)
+* [Laboratorium 3](lab3.md)
 
 ## Adres repo
 
