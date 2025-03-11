@@ -15,7 +15,7 @@
    - Użyć tagów [`<h1>` i `<h2>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements) do wyróżnienia nagłówków.
 2. Tabela:
    - Stworzyć tabelkę [`<table>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table) z danymi (mogą być wymyślone).
-   - Tabela powinna zawierać nagłówek [`<thead>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/thead), wiersze [`<tr>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tr) i kolumny wiersze [`<th>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/th) z danymi.
+   - Tabela powinna zawierać nagłówek [`<thead>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/thead), wiersze [`<tr>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tr) i kolumny [`<th>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/th) z danymi.
    - Należy nadać tabeli tytuł [`<caption>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/caption).
 3. Lista:
    - Stworzyć listę [`<ol>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol) numerowaną cyframi rzymskimi.
