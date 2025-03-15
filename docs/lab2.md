@@ -5,7 +5,7 @@
 
 # Cel
 
-- Celem zadania jest przeprzygotowanie strony internetowej w formacie HTML. Dobrze by było, gdyby strona dotyczyła tematyki związanej z tematyką wybraną na laboratorium pierwszym.
+- Celem zadania jest przygotowanie strony internetowej w formacie HTML. Dobrze by było, gdyby strona dotyczyła tematyki związanej z tematyką wybraną na laboratorium pierwszym.
 - Ważnym fragmentem zadania jest instalacja `npm` i [https://www.npmjs.com/package/html-validate](https://www.npmjs.com/package/html-validate)
 
 # Wymagania
@@ -15,7 +15,7 @@
    - Użyć tagów [`<h1>` i `<h2>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements) do wyróżnienia nagłówków.
 2. Tabela:
    - Stworzyć tabelkę [`<table>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table) z danymi (mogą być wymyślone).
-   - Tabela powinna zawierać nagłówek [`<thead>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/thead), wiersze [`<tr>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tr) i kolumny wiersze [`<th>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/th) z danymi.
+   - Tabela powinna zawierać nagłówek [`<thead>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/thead), wiersze [`<tr>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tr) i kolumny [`<th>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/th) z danymi.
    - Należy nadać tabeli tytuł [`<caption>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/caption).
 3. Lista:
    - Stworzyć listę [`<ol>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol) numerowaną cyframi rzymskimi.
@@ -41,7 +41,7 @@ Stronę należy udostępnić tak, [jak w zadaniu z laboratorium pierwszego](http
 
 # Weryfikacja poprawności strony
 
-Strona powinna być zwerifikowana za pomocą narzędzia `html-validate`. W tym celu należy zainstalować narzędzie za pomocą `npm` na jeden z dwóch sposobów:
+Strona powinna być zweryfikowana za pomocą narzędzia `html-validate`. W tym celu należy zainstalować narzędzie za pomocą `npm` na jeden z dwóch sposobów:
 
 - globalnie: `npm install -g html-validate`. Dzięki temu można weryfikować pliki .html wpisując `html-validate [plik]` lub `html-validate [folder]` (rekurencyjnie weryfikuje wszystkie pliki .html w folderze).
 - lokalnie: Tworząc projekt komendą `npm init -y`, następnie w tym samym katalogu instalując narzędzie komendą `npm install html-validate`. Teraz do weryfikacji wystarczy komenda `npx html-validate [plik/folder]`. Alternatywnie można dodać pole `scripts` do pliku `package.json`:

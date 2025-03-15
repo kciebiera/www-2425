@@ -13,6 +13,7 @@ CSS, preprocesor SCSS, framework Tailwind.
 
 * [Laboratorium 2](lab2.md)
 * [Laboratorium 3](lab3.md)
+* [Laboratorium 4](lab4.md)
 
 ## Adres repo
 
@@ -33,23 +34,23 @@ CSS, preprocesor SCSS, framework Tailwind.
 - Będzie przy komputerach 
 - Będzie można mieć notatki
 - Nie można pisać na własnym komputerze
-- Będzie przygotowane (docker lub podobne) środowisko do pisania
+- Będzie przygotowane środowisko do pisania (Docker lub podobne)
 - Egzamin poprawkowy ma takie same zasady jak pierwszy termin (trzeba mieć lab zaliczony)
 
-### Alternatywna (baz podchodzenia do egzaminu) forma zaliczenia
+### Alternatywna (bez podchodzenia do egzaminu) forma zaliczenia
 
 - Plusy na labie
     - Prowadzący lab dają plusy (około 4 osoby na lab)
     - Studenci z plusami zgłaszają się przez formularz, że chcą pokazać co zrobili na wykładzie (wtedy naprawdę 
 dostają te plusy)
     - Wykładowca informuje studentów,  którzy mają pokazać na wykładzie co zrobili
-    - Kilka osób dostaje 2 pkt pozostali 1pkt 
+    - Kilka osób dostaje `2 pkt`, pozostali `1 pkt`
 - GitHub
-    - Za poprawki na GitHub 10 najlepszych osób +2 lub +1
+    - Za poprawki na GitHub 10 najlepszych osób `+1 lub +2 pkt`
 - Sesje dodatkowe “wykładowe”	
-    - Będzie lista tematów (około 20 min/temat) +1 lub +2 pkt
+    - Będzie lista tematów (około 20 min/temat) `+1 lub +2 pkt`
 - Oceny
-    - 3 pkt -> 3, 4 pkt -> 3.5, 5 pkt -> 4, 6pkt -> 4.5, 7 pkt -> 5
+    - 3 pkt → 3 | 4 pkt → 3.5 | 5 pkt → 4 | 6 pkt → 4.5 | 7 pkt → 5
 
 ## Wykłady
 
@@ -75,6 +76,6 @@ dostają te plusy)
 4. [Django modele](https://docs.google.com/presentation/d/19cJHJPblaSPFIpfNaoejK2VXJPA8B5-64q1P2NXFd1o/edit?usp=sharing)
 5. [Django widoki](https://docs.google.com/presentation/d/1xjZKXYhxbjELq3o1zgKCJ0fhgnlOe7WQsS00KTNUgXw/edit?usp=sharing)
 6. [Typescript cz. 1](https://docs.google.com/presentation/d/1tpYqL2zcvDk8I2JVciwGpwe2EHLbwnDEsonxEgii2Jk/edit?usp=sharing)
-7. [Typesctipt cz. 2](https://docs.google.com/presentation/d/1dhH7TMW9QJreBwXV41HFaJVBB62x5Yj6hUGTgrDMFTA/edit?usp=sharing)
+7. [Typescript cz. 2](https://docs.google.com/presentation/d/1dhH7TMW9QJreBwXV41HFaJVBB62x5Yj6hUGTgrDMFTA/edit?usp=sharing)
 8. [Typescript cz. 3](https://docs.google.com/presentation/d/1tjHFnvyAT7Hb08NxBkTWXkB2vOBYRbuyXNx7YKxnaBg/edit?usp=sharing)
 9. [Typescript cz. 4](https://docs.google.com/presentation/d/1X4kTZo3U9rbrvk36nCYrvk79Bh5GU7BY4hVsf903u1U/edit?usp=sharing)

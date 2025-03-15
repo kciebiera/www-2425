@@ -1,29 +1,29 @@
 # Opis
 
-Na dzisiejszym laboratorium naszym celem będzie wykorzystanie flex oraz scss do stworzenia prostego layoutu
+Na dzisiejszym laboratorium naszym celem będzie wykorzystanie `flex` oraz `scss` do stworzenia prostego layoutu
 strony z poprzednich zajęć.
 
 ## Wymagania
 
 Zademonstruj:
 
-1. Ukrywanie jednego z elementów strony w sytuacji, gdy szerokość okna przeglądarki jest mniejsza niż 800px.
+1. Ukrywanie jednego z elementów strony w sytuacji, gdy szerokość okna przeglądarki jest mniejsza niż `800px`.
 2. Zmianę koloru tła elementu strony w momencie, gdy kursor znajduje się nad tym elementem.
-3. Zmianę koloru tła elementu strony w momencie, gdy kursor znajduje się nad tym elementem, ale tylko wtedy, gdy szerokość okna przeglądarki jest większa niż 800px.
-4. Zmianę kolejności elementów strony w momencie, gdy szerokość okna przeglądarki jest mniejsza niż 800px (elementy mają być ułożone jeden pod drugim).
-5. Wykorzystanie atrybutu justify-content do wyśrodkowania elementów w kontenerze:
+3. Zmianę koloru tła elementu strony w momencie, gdy kursor znajduje się nad tym elementem, ale tylko wtedy, gdy szerokość okna przeglądarki jest większa niż `800px`.
+4. Zmianę kolejności elementów strony w momencie, gdy szerokość okna przeglądarki jest mniejsza niż `800px` (elementy mają być ułożone jeden pod drugim).
+5. Wykorzystanie atrybutu [justify-content](https://developer.mozilla.org/en-US/docs/Web/CSS/justify-content) do wyśrodkowania elementów w kontenerze:
    - po lewej stronie,
    - po prawej stronie,
    - na środku,
    - równomiernie rozłożone.
-6. Przygotuj SCSS, który będzie zawierał:
+6. Przygotuj `SCSS`, który będzie zawierał:
    - zmienną z kolorami tła,
    - zmienną z kolorami tekstu,
    - zmienną z kolorami linków.
-7. Wykorzystanie zmiennych w pliku SCSS.
-8. Wykorzystanie mixinów w pliku SCSS.
-9. Wykorzystanie zagnieżdżania w pliku SCSS.
-10. Wykorzystanie funkcji w pliku SCSS (np. darken, lighten, saturate, desaturate, etc.).
+7. Wykorzystanie zmiennych w pliku `SCSS`.
+8. Wykorzystanie mixinów w pliku `SCSS`.
+9. Wykorzystanie zagnieżdżania w pliku `SCSS`.
+10. Wykorzystanie funkcji w pliku `SCSS` (np. [darken](https://sass-lang.com/documentation/modules/color/#darken), [lighten](https://sass-lang.com/documentation/modules/color/#lighten), [saturate](https://sass-lang.com/documentation/modules/color/#saturate), [desaturate](https://sass-lang.com/documentation/modules/color/#desaturate), etc.).
 
 <!-- Krótki tutorial na temat użycia scss (czym jest saas, instalacja go globalnie lub lokalnie) -->
 ## Elegancki CSS
