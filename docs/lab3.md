@@ -28,14 +28,14 @@ Zademonstruj:
 <!-- Krótki tutorial na temat użycia scss (czym jest saas, instalacja go globalnie lub lokalnie) -->
 ## Elegancki CSS
 
-**SCSS** to rozszerzenie składni CSS, które umożliwia używanie zmiennych, zagnieżdżania, mixinów i innych zaawansowanych funkcji, a **Sass** to preprocesor CSS, który kompiluje kod SCSS do standardowego CSS.
+**SCSS** to rozszerzenie składni CSS, które umożliwia między innymi używanie zmiennych, zagnieżdżania, mixinów. **Sass** to preprocesor CSS, który kompiluje kod SCSS do standardowego CSS.
 
 ### Instalacja i uruchamianie
 
 > **Uwaga:** Przed instalacją upewnij się, że masz zainstalowany npm.
 
 #### Używanie Live Sass Compiler w VSCode
-Najprostszym sposobem na używanie SCSS jest pobranie rozszerzenia Live Sass Compiler w VSCode. Po zainstalowaniu wtyczki, wystarczy wcisnąć przycisk `Watch Sass` w prawym rogu dolnego paska, aby automatycznie kompilować pliki SCSS do CSS przy każdej zmianie (zapisie). Jeśli jednak nie lubimy pisać w VSCode i wolimy np. VIM 😎, to możemy zastosować się do poniższych instrukcji:
+Najprostszym sposobem na używanie SCSS jest pobranie rozszerzenia Live Sass Compiler w VSCode. Po zainstalowaniu wtyczki, wystarczy wcisnąć przycisk `Watch Sass` w prawym rogu dolnego paska, aby automatycznie kompilować pliki SCSS do CSS przy każdej zmianie (zapisie). Jeśli jednak nie lubisz pisać w VSCode i wolisz np. VIM 😎, to możesz zastosować się do poniższych instrukcji:
 
 #### Globalna instalacja za pomocą npm
 > **Uwaga:** Globalna instalacja nie działa na komputerach labowych z powodu braku uprawnień.
