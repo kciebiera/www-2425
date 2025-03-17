@@ -25,6 +25,54 @@ Zademonstruj:
 9. Wykorzystanie zagnieżdżania w pliku `SCSS`.
 10. Wykorzystanie funkcji w pliku `SCSS` (np. [darken](https://sass-lang.com/documentation/modules/color/#darken), [lighten](https://sass-lang.com/documentation/modules/color/#lighten), [saturate](https://sass-lang.com/documentation/modules/color/#saturate), [desaturate](https://sass-lang.com/documentation/modules/color/#desaturate), etc.).
 
+<!-- Krótki tutorial na temat użycia scss (czym jest saas, instalacja go globalnie lub lokalnie) -->
+## Elegancki CSS
+
+**SCSS** to rozszerzenie składni CSS, które umożliwia między innymi używanie zmiennych, zagnieżdżania, mixinów. **Sass** to preprocesor CSS, który kompiluje kod SCSS do standardowego CSS.
+
+### Instalacja i uruchamianie
+
+> **Uwaga:** Przed instalacją upewnij się, że masz zainstalowany npm.
+
+#### Używanie Live Sass Compiler w VSCode
+Najprostszym sposobem na używanie SCSS jest pobranie rozszerzenia Live Sass Compiler w VSCode. Po zainstalowaniu wtyczki, wystarczy wcisnąć przycisk `Watch Sass` w prawym rogu dolnego paska, aby automatycznie kompilować pliki SCSS do CSS przy każdej zmianie (zapisie). Jeśli jednak nie lubisz pisać w VSCode i wolisz np. VIM 😎, to możesz zastosować się do poniższych instrukcji:
+
+#### Globalna instalacja za pomocą npm
+> **Uwaga:** Globalna instalacja nie działa na komputerach labowych z powodu braku uprawnień.
+
+Aby zainstalować Sass globalnie, użyj poniższego polecenia:
+```bash
+npm install -g sass
+```
+Po zainstalowaniu Sass globalnie, możesz użyć polecenia `sass` w dowolnym miejscu w systemie do kompilacji plików SCSS do CSS:
+```bash
+sass [plik.scss] [plik.css]
+```
+
+#### Lokalna instalacja za pomocą npm
+Aby zainstalować Sass lokalnie, na początku utwórz projekt komendą:
+```bash
+npm init -y
+```
+Następnie w tym samym katalogu zainstaluj Sass:
+```bash
+npm install sass
+```
+Teraz do kompilacji SCSS do CSS wystarczy komenda:
+```bash
+npx sass [plik.scss] [plik.css]
+```
+
+### Automatyczna kompilacja po zapisie
+Aby automatycznie kompilować pliki SCSS do CSS przy każdej zmianie, możesz użyć flagi `--watch`:
+```bash
+sass --watch [plik.scss]:[plik.css]
+```
+Lub w przypadku lokalnej instalacji:
+```bash
+npx sass --watch [plik.scss]:[plik.css]
+```
+
 ## Przydatne informacje
 
 - [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
