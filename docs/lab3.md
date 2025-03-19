@@ -23,7 +23,7 @@ Zademonstruj:
 7. Wykorzystanie zmiennych w pliku `SCSS`.
 8. Wykorzystanie mixinów w pliku `SCSS`.
 9. Wykorzystanie zagnieżdżania w pliku `SCSS`.
-10. Wykorzystanie funkcji w pliku `SCSS` (np. [darken](https://sass-lang.com/documentation/modules/color/#darken), [lighten](https://sass-lang.com/documentation/modules/color/#lighten), [saturate](https://sass-lang.com/documentation/modules/color/#saturate), [desaturate](https://sass-lang.com/documentation/modules/color/#desaturate), etc.).
+10. Wykorzystanie funkcji w pliku `SCSS` (np. [`color.scale()`](https://sass-lang.com/documentation/breaking-changes/color-functions/#single-channel-adjustment-functions)).
 
 <!-- Krótki tutorial na temat użycia scss (czym jest saas, instalacja go globalnie lub lokalnie) -->
 ## Elegancki CSS
