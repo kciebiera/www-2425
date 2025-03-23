@@ -22,6 +22,8 @@ Zadania podstawowe, każde z nich jest dość proste:
 Zadania średnio zaawansowane:
 
 1. (opcjonalne, ale polecane) skonfiguruj Visual Studio Code do pracy z Tailwind CSS. Możesz skorzystać z [https://tailwindcss.com/docs/editor-setup](https://tailwindcss.com/docs/editor-setup).
+
+    > **Wskazówka:** W najnowszej wersji Tailwind CSS (v4.0) uproszczono proces instalacji, przez co nie jest tworzony plik konfiguracyjny `tailwind.config.js`. Jednakże, przydatne rozszerzenie Tailwind CSS IntelliSense wymaga tego pliku w katalogu roboczym projektu. Aby rozszerzenie działało poprawnie, możesz po prostu utworzyć pusty plik `tailwind.config.js`.
 2. Zademonstruj różnicę pomiędzy `flex-row` a `flex-col`. Możesz skorzystać z [https://tailwindcss.com/docs/flex-direction](https://tailwindcss.com/docs/flex-direction).
 3. Zademonstruj użycie `flex-auto` do stylizacji elementów. Możesz skorzystać z [https://tailwindcss.com/docs/flex#auto](https://tailwindcss.com/docs/flex#auto).
 4. Podobnie zademonstruj użycie `flex-none`. Możesz skorzystać z [https://tailwindcss.com/docs/flex#none](https://tailwindcss.com/docs/flex#none).
