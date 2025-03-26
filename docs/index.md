@@ -15,6 +15,12 @@ CSS, preprocesor SCSS, framework Tailwind.
 * [Laboratorium 3](lab3.md)
 * [Laboratorium 4](lab4.md)
 
+## Blok 3
+
+Django
+
+* [Laboratorium 5](lab5.md)
+
 ## Adres repo
 
 [https://github.com/kciebiera/www-2425](https://github.com/kciebiera/www-2425)
@@ -23,34 +29,34 @@ CSS, preprocesor SCSS, framework Tailwind.
 
 ### Laboratorium
 
-- Trzeba oddać wszystkie zadania
-- Są od razu podane dwa terminy: prawdziwy i zapasowy
-- Dwa z pięciu zadań można oddać w terminie zapasowym
+* Trzeba oddać wszystkie zadania
+* Są od razu podane dwa terminy: prawdziwy i zapasowy
+* Dwa z pięciu zadań można oddać w terminie zapasowym
 
 ### Egzamin
 
-- Ocena to ocena z egzaminu praktycznego
-- Odbędzie się w trakcie sesji
-- Będzie przy komputerach 
-- Będzie można mieć notatki
-- Nie można pisać na własnym komputerze
-- Będzie przygotowane środowisko do pisania (Docker lub podobne)
-- Egzamin poprawkowy ma takie same zasady jak pierwszy termin (trzeba mieć lab zaliczony)
+* Ocena to ocena z egzaminu praktycznego
+* Odbędzie się w trakcie sesji
+* Będzie przy komputerach
+* Będzie można mieć notatki
+* Nie można pisać na własnym komputerze
+* Będzie przygotowane środowisko do pisania (Docker lub podobne)
+* Egzamin poprawkowy ma takie same zasady jak pierwszy termin (trzeba mieć lab zaliczony)
 
 ### Alternatywna (bez podchodzenia do egzaminu) forma zaliczenia
 
-- Plusy na labie
-    - Prowadzący lab dają plusy (około 4 osoby na lab)
-    - Studenci z plusami zgłaszają się przez formularz, że chcą pokazać co zrobili na wykładzie (wtedy naprawdę 
+* Plusy na labie
+  * Prowadzący lab dają plusy (około 4 osoby na lab)
+  * Studenci z plusami zgłaszają się przez formularz, że chcą pokazać co zrobili na wykładzie (wtedy naprawdę
 dostają te plusy)
-    - Wykładowca informuje studentów,  którzy mają pokazać na wykładzie co zrobili
-    - Kilka osób dostaje `2 pkt`, pozostali `1 pkt`
-- GitHub
-    - Za poprawki na GitHub 10 najlepszych osób `+1 lub +2 pkt`
-- Sesje dodatkowe “wykładowe”	
-    - Będzie lista tematów (około 20 min/temat) `+1 lub +2 pkt`
-- Oceny
-    - 3 pkt → 3 | 4 pkt → 3.5 | 5 pkt → 4 | 6 pkt → 4.5 | 7 pkt → 5
+  * Wykładowca informuje studentów,  którzy mają pokazać na wykładzie co zrobili
+  * Kilka osób dostaje `2 pkt`, pozostali `1 pkt`
+* GitHub
+  * Za poprawki na GitHub 10 najlepszych osób `+1 lub +2 pkt`
+* Sesje dodatkowe “wykładowe” 
+  * Będzie lista tematów (około 20 min/temat) `+1 lub +2 pkt`
+* Oceny
+  * 3 pkt → 3 | 4 pkt → 3.5 | 5 pkt → 4 | 6 pkt → 4.5 | 7 pkt → 5
 
 ## Wykłady
 
@@ -58,16 +64,16 @@ dostają te plusy)
 
 ### Prezentacje rozwiązań zadań przez studentów
 
-- 13 marca
-- 3 kwietnia
-- 8 maja
-- 29 maja
-- 12 czerwca
+* 13 marca
+* 3 kwietnia
+* 8 maja
+* 29 maja
+* 12 czerwca
 
 ### Tematy dodatkowe pokazywane przez studentów
 
-- 15 maja
-- 5 czerwca
+* 15 maja
+* 5 czerwca
 
 ## Archiwalne wykłady
 
