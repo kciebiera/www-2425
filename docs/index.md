@@ -20,6 +20,7 @@ CSS, preprocesor SCSS, framework Tailwind.
 Django
 
 * [Laboratorium 5](lab5.md)
+* [Laboratorium 6](lab6.md)
 
 ## Adres repo
 
@@ -53,7 +54,7 @@ dostają te plusy)
   * Kilka osób dostaje `2 pkt`, pozostali `1 pkt`
 * GitHub
   * Za poprawki na GitHub 10 najlepszych osób `+1 lub +2 pkt`
-* Sesje dodatkowe “wykładowe” 
+* Sesje dodatkowe “wykładowe”
   * Będzie lista tematów (około 20 min/temat) `+1 lub +2 pkt`
 * Oceny
   * 3 pkt → 3 | 4 pkt → 3.5 | 5 pkt → 4 | 6 pkt → 4.5 | 7 pkt → 5
