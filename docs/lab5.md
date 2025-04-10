@@ -50,11 +50,10 @@ Materiał prawie wystarczający do wykonania zadania jest zawarty w trzech pierw
 
 * [podstawowy setup projektu](https://docs.djangoproject.com/en/5.0/intro/tutorial01/)
 * [modele](https://docs.djangoproject.com/en/5.0/intro/tutorial02/)
-* [templaty](https://docs.djangoproject.com/en/5.0/intro/tutorial03/)
 
-Nawigacja po serwisie powinna być możliwa jedynie z użyciem linków dostępnych na poszczególnych stronach (bez posługiwania się paskiem przeglądarki w tym przyciskiem wstecz).
+Nawigacja po serwisie powinna być zaprojektowana w taki sposób, aby użytkownik mógł poruszać się po nim za pomocą linków dostępnych na poszczególnych stronach, bez konieczności korzystania z paska przeglądarki ani przycisku wstecz.
 
-Do logowania i wylogowywania artystów można użyć intefejsu zapewnionego przez panel administracyjny django.
+Do logowania i wylogowywania użytkowników można użyć intefejsu zapewnionego przez panel administracyjny django.
 W takim wypadku powinni oni mieć ustawioną flage staff member, ale nie mogą mieć uprawnień do edycji niczego z użyciem admin panelu.
 
 Nie trzeba zabezpieczać się przed atakami w stylu: preparuję jakimś zewnętrznym narzędziem żądanie http, które wysłałby inny użytkownik celem modyfikacji jego obrazka. Wystarczy, że taka niechciana akcja nie będzie jawnie dostępna na stronie. Niemniej warto pomyśleć, w których miejscach strony może to stanowić potencjalne zagrożenie.
