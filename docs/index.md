@@ -21,6 +21,7 @@ Django
 
 * [Laboratorium 5](lab5.md)
 * [Laboratorium 6](lab6.md)
+* [Laboratorium 7](lab7.md)
 
 ## Adres repo
 
