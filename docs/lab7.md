@@ -1,6 +1,6 @@
 # Opis
 
-Deadline: to zadanie jest na zaliczenie (TAK/NIE), trzeba je oddać na piątym lub szóstym laboratorium osobie, która prowadzi zajęcia.
+Deadline: to zadanie jest na zaliczenie (TAK/NIE), trzeba je oddać wraz z zadaniami z poprzednich dwóch laboratoriów na ósmym lub dziewiątym laboratorium osobie, która prowadzi zajęcia.
 
 # Testowanie Aplikacji Edytora Tras
 
