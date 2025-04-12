@@ -78,7 +78,7 @@ Należy przygotować testy jednostkowe oraz integracyjne (z użyciem klienta tes
 ## Narzędzia i Wskazówki
 
 * **Django Testing Framework:** Podstawowe narzędzie do pisania testów.
-  * Dokumentacja: [Writing and running tests](https://www.google.com/search?q=https://docs.djangoproject.com/en/stable/topics/testing/overview/)
+  * Dokumentacja: [Writing and running tests](https://docs.djangoproject.com/en/stable/topics/testing/overview/)
   * Klasa `django.test.TestCase`: Automatycznie zarządza bazą danych dla testów.
   * Klient testowy: `django.test.Client` do symulowania żądań HTTP.
 * **Django REST Framework Testing:** Narzędzia ułatwiające testowanie API.
