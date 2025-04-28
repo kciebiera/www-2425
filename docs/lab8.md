@@ -38,7 +38,7 @@ Celem tego laboratorium jest wzbogacenie interfejsu użytkownika aplikacji o dyn
         * Włączenia map źródłowych (`sourceMap: true`) dla łatwiejszego debugowania.
     * Zorganizuj pliki źródłowe TypeScript (np. w katalogu `src/` lub `typescript/`).
     * Skonfiguruj proces kompilacji TypeScript do JavaScript (np. poprzez dodanie skryptu do `package.json`: `"build": "tsc"`). Uruchamiaj kompilację za pomocą `npm run build`.
-    * Upewnij się, że skompilowany plik JavaScript jest poprawnie dołączany do odpowiednich szablonów Django przy użyciu taga `{% static %}`. Pamiętaj o uruchomieniu `python manage.py collectstatic`, jeśli jest to wymagane w Twojej konfiguracji.
+    * Upewnij się, że skompilowany plik JavaScript jest poprawnie dołączany do odpowiednich szablonów Django. Pamiętaj o uruchomieniu `python manage.py collectstatic`, jeśli jest to wymagane w Twojej konfiguracji.
 
 2.  **Przygotowanie Struktury HTML:**
     * Upewnij się, że w szablonie Django (np. `route_detail.html`) elementy kluczowe dla interakcji mają odpowiednie identyfikatory (`id`) lub klasy (`class`), aby łatwo można było je zlokalizować za pomocą JavaScript/TypeScript:
