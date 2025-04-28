@@ -23,6 +23,12 @@ Django
 * [Laboratorium 6](lab6.md)
 * [Laboratorium 7](lab7.md)
 
+## Blok 4
+
+JavaScript, TypeScript
+
+* [Laboratorium 8](lab8.md)
+
 ## Adres repo
 
 [https://github.com/kciebiera/www-2425](https://github.com/kciebiera/www-2425)
