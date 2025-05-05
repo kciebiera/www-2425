@@ -28,6 +28,7 @@ Django
 JavaScript, TypeScript
 
 * [Laboratorium 8](lab8.md)
+* [Laboratorium 9](lab9.md)
 
 ## Adres repo
 
