@@ -75,7 +75,7 @@ Celem tego laboratorium jest zaimplementowanie interfejsu użytkownika (frontend
     * **Wysyłanie Danych (TypeScript):** Dodaj event listener do przycisku "Zapisz". W jego obsłudze:
         * Pobierz nazwę planszy z formularza.
         * Pobierz konfigurację kropek ze stanu TS.
-        * Użyj `Workspace` API, aby wysłać żądanie POST do endpointu Django, przesyłając zebrane dane (np. jako JSON w ciele żądania). Pamiętaj o dodaniu tokenu CSRF, jeśli jest wymagany.
+        * Użyj API, aby wysłać żądanie POST do endpointu Django, przesyłając zebrane dane (np. jako JSON w ciele żądania). Pamiętaj o dodaniu tokenu CSRF, jeśli jest wymagany.
     * **Logika Zapisu w Widoku Django:** Widok Django powinien:
         * Odebrać dane.
         * Zwalidować je (czy wymiary się zgadzają, czy dane kropek są poprawne, czy użytkownik jest zalogowany itp.).
