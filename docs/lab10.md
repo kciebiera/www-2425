@@ -2,7 +2,7 @@
 
 ## Opis
 
-Deadline: to zadanie jest na zaliczenie (TAK/NIE), trzeba je oddać na piątym lub szóstym laboratorium osobie, która prowadzi zajęcia.
+Deadline: to zadanie jest na zaliczenie (TAK/NIE), trzeba je oddać na jedynastym lub dwunastymym laboratorium osobie, która prowadzi zajęcia.
 
 To laboratorium stanowi kolejny krok w rozwoju projektu "Interaktywny Edytor Tras/Ścieżek". W poprzednich etapach:
 
