@@ -35,6 +35,19 @@ JavaScript, TypeScript
 
 [https://github.com/kciebiera/www-2425](https://github.com/kciebiera/www-2425)
 
+## Prezentacje studenckie 
+
+### Termin 22 maja
+
+* Selenium - wolna
+* Vue.js - wolna
+* Websockets - wolna
+* RabbitMQ - wolna
+
+### Termin 5 czerwca
+
+* Webassembly - wolna
+
 ## Zaliczenie
 
 ### Laboratorium
