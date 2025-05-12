@@ -40,7 +40,7 @@ JavaScript, TypeScript
 ### Termin 22 maja
 
 * Selenium - zajęte (PD)
-* Vue.js - wolna
+* Vue.js - zajęte (KZ)
 * Websockets - zajęte (BR)
 * RabbitMQ - wolna
 
