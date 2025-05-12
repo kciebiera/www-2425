@@ -42,7 +42,7 @@ JavaScript, TypeScript
 * Selenium - zajęte (PD)
 * Vue.js - zajęte (KZ)
 * Websockets - zajęte (BR)
-* RabbitMQ - wolna
+* RabbitMQ - zajęte (MM)
 
 ### Termin 5 czerwca
 
