@@ -76,13 +76,13 @@ dostają te plusy)
 
 * 13 marca
 * 3 kwietnia
-* 8 maja
+* 15 maja
 * 29 maja
 * 12 czerwca
 
 ### Tematy dodatkowe pokazywane przez studentów
 
-* 15 maja
+* 22 maja
 * 5 czerwca
 
 ## Archiwalne wykłady
