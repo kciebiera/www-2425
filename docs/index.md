@@ -46,9 +46,10 @@ JavaScript, TypeScript
 
 ### Termin 5 czerwca
 
-* Webassembly - wolna
-* htmx i hyperscript (MT)
-
+* Webassembly - zajęte (MN)
+* htmx i hyperscript - zajęte (MT)
+* ??? (czeka na pomysł)
+* ??? (czeka na pomysł)
 
 ## Zaliczenie
 
