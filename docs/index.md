@@ -40,6 +40,7 @@ JavaScript, TypeScript
 ### Termin 22 maja
 
 * Selenium - zajęte (PD)
+* Selenium scrapper - (KO)
 * Vue.js - zajęte (KZ)
 * Websockets - zajęte (BR)
 * RabbitMQ - zajęte (MM)
