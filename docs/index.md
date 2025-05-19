@@ -54,6 +54,7 @@ JavaScript, TypeScript
 
 * Webassembly - zajęte (MN)
 * htmx i hyperscript - zajęte (MT)
+* alpine.js (MM)
 * ??? (czeka na pomysł)
 * ??? (czeka na pomysł)
 
