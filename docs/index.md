@@ -31,11 +31,15 @@ JavaScript, TypeScript
 * [Laboratorium 9](lab9.md)
 * [Laboratorium 10](lab10.md)
 
+## Dodatkowe tutoriale
+
+* [Piotr Dudziak](tutorials/PiotrDudziak/README.md)
+
 ## Adres repo
 
 [https://github.com/kciebiera/www-2425](https://github.com/kciebiera/www-2425)
 
-## Prezentacje studenckie 
+## Prezentacje studenckie
 
 ### Termin 22 maja
 

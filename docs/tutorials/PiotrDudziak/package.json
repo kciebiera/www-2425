@@ -1,0 +1,28 @@
+{
+  "name": "typescript-mimuw-guide",
+  "version": "1.0.0",
+  "description": "No Bullshit Guide to TypeScript for MIMUW Students",
+  "main": "01_basics.ts",
+  "scripts": {
+    "start": "npx ts-node 01_basics.ts",
+    "lint": "eslint . --ext .ts,.tsx",
+    "format": "prettier --write ."
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "zod": "^3.24.3"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.2",
+    "@types/react-dom": "^19.1.2",
+    "@typescript-eslint/eslint-plugin": "^6.0.0",
+    "@typescript-eslint/parser": "^6.0.0",
+    "eslint": "^8.0.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-react": "^7.0.0",
+    "prettier": "^3.0.0",
+    "ts-node": "^10.0.0",
+    "typescript": "^5.8.3"
+  }
+}
