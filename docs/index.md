@@ -56,7 +56,7 @@ JavaScript, TypeScript
 * htmx i hyperscript - zajęte (MT)
 * alpine.js (MM)
 * django + docker-compose (PH) 
-* ??? (czeka na pomysł)
+* shiny R (SŚ)
 * ??? (czeka na pomysł)
 
 ## Zaliczenie
