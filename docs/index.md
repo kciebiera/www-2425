@@ -34,6 +34,7 @@ JavaScript, TypeScript
 ## Dodatkowe tutoriale
 
 * [Piotr Dudziak](tutorials/PiotrDudziak/README.md)
+* [Bartłomiej Rozenberg](https://bartekrozenberg.github.io/ts_guide.io/)
 
 ## Adres repo
 
