@@ -57,8 +57,8 @@ JavaScript, TypeScript
 * alpine.js (MM)
 * django + docker-compose (PH) 
 * shiny R (SŚ)
-* ??? (czeka na pomysł)
-
+* Tauri (MP)
+  
 ## Zaliczenie
 
 ### Laboratorium
