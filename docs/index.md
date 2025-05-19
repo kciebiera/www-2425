@@ -55,6 +55,7 @@ JavaScript, TypeScript
 * Webassembly - zajęte (MN)
 * htmx i hyperscript - zajęte (MT)
 * alpine.js (MM)
+* django + docker-compose (PH) 
 * ??? (czeka na pomysł)
 * ??? (czeka na pomysł)
 
