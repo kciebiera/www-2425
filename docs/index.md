@@ -31,6 +31,13 @@ JavaScript, TypeScript
 * [Laboratorium 9](lab9.md)
 * [Laboratorium 10](lab10.md)
 
+## Blok 5
+
+SSE, ten blok jest krótszy, bo są tylko dwa laboratoria. Jest to ostatni blok, który kończy się przed sesją.
+
+* [Laboratorium 11](lab11.md)
+* [Laboratorium 12](lab12.md)
+
 ## Dodatkowe tutoriale
 
 * [Piotr Dudziak](tutorials/PiotrDudziak/README.md)
