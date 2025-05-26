@@ -65,6 +65,7 @@ SSE, ten blok jest krótszy, bo są tylko dwa laboratoria. Jest to ostatni blok,
 * django + docker-compose (PH) 
 * shiny R (SŚ)
 * Tauri (MP)
+* Storybok (MK)
   
 ## Zaliczenie
 
