@@ -24,7 +24,7 @@
 5. Obrazek:
    - Dodać do strony obrazek (element [`<img>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img)).
 6. Formularz:
-   - Stworzyć formularz (element [`<form>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)) zawierający między innnymi:
+   - Stworzyć formularz (element [`<form>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)) zawierający między innymi:
        - Pole tekstowe (element [`<input>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)).
        - Pole wyboru (element [`<select>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select)) z [optgroup](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select#select_with_grouping_options).
        - Przycisk (element [`<button>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button)).
