@@ -1,5 +1,9 @@
 # WWW 2024/25 MIMUW
 
+## Egzamin Testowy z Aplikacji WWW
+
+* [test_exam.md](test_exam.md)
+
 ## Blok 1
 
 Podstawy tworzenia stron WWW przy użyciu zewnętrznego narzędzia: Hugo, Jekyll
