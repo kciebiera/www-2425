@@ -71,6 +71,73 @@ Celem tego laboratorium jest wzbogacenie interfejsu użytkownika aplikacji o dyn
 * **Atrybuty `data-*`:** Są wygodnym sposobem przekazywania danych (jak współrzędne punktów) z szablonu Django (backend) do kodu JavaScript/TypeScript (frontend). Dostęp do nich uzyskasz przez `element.dataset`.
 * **Debugowanie:** Używaj narzędzi deweloperskich przeglądarki (konsola, debugger, inspektor elementów) oraz map źródłowych (`source maps`) generowanych przez TypeScript do debugowania kodu.
 
+## Pliki statyczne w Django
+
+W Django pliki statyczne to zasoby takie jak CSS, **JavaScript** czy obrazy, które są serwowane bezpośrednio do przeglądarki i nie zmieniają się dynamicznie podczas działania aplikacji.
+
+1. **Ustaw STATIC_URL, STATICFILES_DIRS, STATIC_ROOT w 'settings.py':**
+
+    ```
+    # Adres URL, pod którym będą dostępne pliki statyczne w przeglądarce
+    STATIC_URL = '/static/'
+
+    # Dodatkowe foldery na pliki statyczne poza katalogami aplikacji
+    STATICFILES_DIRS = [
+        BASE_DIR / "static",
+    ]
+
+    # Katalog, do którego Django zbierze pliki statyczne przy wdrożeniu (collectstatic)
+    STATIC_ROOT = BASE_DIR / "staticfiles"
+    ```
+2. **Organizacja plików statycznych**
+    
+    Pliki statyczne umieszczamy w katalogu **static** wewnątrz każdej aplikacji, np.:
+
+    ```
+    myapp/
+    └── static/
+        └── myapp/
+            └── style.css
+    ```
+    Można też mieć globalny katalog **static** w głównym folderze projektu, np.:
+    ```
+    static/
+    └── global.css
+    └── script.js
+    ```
+
+3. **Używanie plików statycznych w szablonach**
+
+    **Na początku** szablonu (HTML) należy załadować tag static:
+    ```
+    {% load static %}
+    ```
+
+    Następnie odwołujemy się do plików statycznych tak:
+    ```
+    <link rel="stylesheet" href="{% static 'myapp/style.css' %}">
+    <script src="{% static 'script.js' %}"></script>
+    ```
+
+4. **Uruchamianie projektu w trybie development:**
+
+    Ustaw w 'settings.py':
+    ```
+    DEBUG = True
+    ```
+    Teraz Django automatycznie serwuje pliki statyczne i możesz testować bez dodatkowej konfiguracji.
+
+5. **Przygotowanie do produkcji**
+    Ustaw w 'settings.py':
+    ```
+    DEBUG = False
+    ```
+    Następnie uruchom komendę:
+    ```
+    python manage.py collectstatic
+    ```
+    Polecenie to skopiuje wszystkie pliki statyczne z katalogów aplikacji oraz z folderów wymienionych w **STATICFILES_DIRS** do katalogu wskazanego przez **STATIC_ROOT**.
+
 ## Uwagi
 
 * Kod TypeScript musi zostać skompilowany do JavaScript, aby mógł być wykonany przez przeglądarkę. Pamiętaj o regularnym uruchamianiu kompilatora (`tsc` lub `npm run build`).
