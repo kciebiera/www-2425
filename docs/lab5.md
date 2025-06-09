@@ -54,7 +54,7 @@ Materiał prawie wystarczający do wykonania zadania jest zawarty w trzech pierw
 
 Nawigacja po serwisie powinna być zaprojektowana w taki sposób, aby użytkownik mógł poruszać się po nim za pomocą linków dostępnych na poszczególnych stronach, bez konieczności korzystania z paska przeglądarki ani przycisku wstecz.
 
-Do logowania i wylogowywania użytkowników można użyć intefejsu zapewnionego przez panel administracyjny django.
+Do logowania i wylogowywania użytkowników można użyć interfejsu zapewnionego przez panel administracyjny django.
 W takim wypadku powinni oni mieć ustawioną flagę staff member, ale nie mogą mieć uprawnień do edycji niczego z użyciem admin panelu.
 
 Nie trzeba zabezpieczać się przed atakami w stylu: preparuję jakimś zewnętrznym narzędziem żądanie http, które wysłałby inny użytkownik celem modyfikacji jego obrazka. Wystarczy, że taka niechciana akcja nie będzie jawnie dostępna na stronie. Niemniej warto pomyśleć, w których miejscach strony może to stanowić potencjalne zagrożenie.
