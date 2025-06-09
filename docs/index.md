@@ -1,5 +1,9 @@
 # WWW 2024/25 MIMUW
 
+## Egzamin Testowy z Aplikacji WWW
+
+* [test_exam.md](test_exam.md)
+
 ## Blok 1
 
 Podstawy tworzenia stron WWW przy użyciu zewnętrznego narzędzia: Hugo, Jekyll
@@ -31,15 +35,28 @@ JavaScript, TypeScript
 * [Laboratorium 9](lab9.md)
 * [Laboratorium 10](lab10.md)
 
+## Blok 5
+
+SSE, ten blok jest krótszy, bo są tylko dwa laboratoria. Jest to ostatni blok, który kończy się przed sesją.
+
+* [Laboratorium 11](lab11.md)
+* [Laboratorium 12](lab12.md)
+
+## Dodatkowe tutoriale
+
+* [Piotr Dudziak](tutorials/PiotrDudziak/README.md)
+* [Bartłomiej Rozenberg](https://bartekrozenberg.github.io/ts_guide.io/)
+
 ## Adres repo
 
 [https://github.com/kciebiera/www-2425](https://github.com/kciebiera/www-2425)
 
-## Prezentacje studenckie 
+## Prezentacje studenckie
 
 ### Termin 22 maja
 
 * Selenium - zajęte (PD)
+* Selenium scrapper - (KO)
 * Vue.js - zajęte (KZ)
 * Websockets - zajęte (BR)
 * RabbitMQ - zajęte (MM)
@@ -48,9 +65,12 @@ JavaScript, TypeScript
 
 * Webassembly - zajęte (MN)
 * htmx i hyperscript - zajęte (MT)
-* ??? (czeka na pomysł)
-* ??? (czeka na pomysł)
-
+* alpine.js (MM)
+* django + docker-compose (PH) 
+* shiny R (SŚ)
+* Tauri (MP)
+* Storybok (MK)
+  
 ## Zaliczenie
 
 ### Laboratorium
@@ -83,6 +103,7 @@ dostają te plusy)
   * Będzie lista tematów (około 20 min/temat) `+1 lub +2 pkt`
 * Oceny
   * 3 pkt → 3 | 4 pkt → 3.5 | 5 pkt → 4 | 6 pkt → 4.5 | 7 pkt → 5
+* Oddanie pięciu zadań laboratoryjnych jest konieczne dla wszystkich studentów, nawet jeśli zdobyli punkty dodatkowe
 
 ## Wykłady
 
