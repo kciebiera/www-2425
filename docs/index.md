@@ -1,5 +1,9 @@
 # WWW 2024/25 MIMUW
 
+## Egzamin Testowy z Aplikacji WWW
+
+* [test_exam.md](test_exam.md)
+
 ## Blok 1
 
 Podstawy tworzenia stron WWW przy użyciu zewnętrznego narzędzia: Hugo, Jekyll
@@ -99,6 +103,7 @@ dostają te plusy)
   * Będzie lista tematów (około 20 min/temat) `+1 lub +2 pkt`
 * Oceny
   * 3 pkt → 3 | 4 pkt → 3.5 | 5 pkt → 4 | 6 pkt → 4.5 | 7 pkt → 5
+* Oddanie pięciu zadań laboratoryjnych jest konieczne dla wszystkich studentów, nawet jeśli zdobyli punkty dodatkowe
 
 ## Wykłady
 
