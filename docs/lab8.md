@@ -109,14 +109,15 @@ W Django pliki statyczne to zasoby takie jak CSS, **JavaScript** czy obrazy, kt�
 3. **Używanie plików statycznych w szablonach**
 
     **Na początku** szablonu (HTML) należy załadować tag static:
+
     ```
-    {% load static %}
+    load static
     ```
 
     Następnie odwołujemy się do plików statycznych tak:
     ```
-    <link rel="stylesheet" href="{% static 'myapp/style.css' %}">
-    <script src="{% static 'script.js' %}"></script>
+    <link rel="stylesheet" href=" static 'myapp/style.css' ">
+    <script src=" static 'script.js' "></script>
     ```
 
 4. **Uruchamianie projektu w trybie development:**

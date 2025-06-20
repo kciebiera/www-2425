@@ -3,6 +3,7 @@
 ## Egzamin Testowy z Aplikacji WWW
 
 * [test_exam.md](test_exam.md)
+* [Zasady organizacji egzaminu](rules_exam.md)
 
 ## Blok 1
 
